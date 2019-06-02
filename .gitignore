@@ -1,3 +1,12 @@
 *.class
 *.log
 *.swp
+pncluster/dist/*
+pncluster/target/
+pncluster/lib_managed/
+pncluster/src_managed/
+pncluster/project/boot/
+pncluster/project/plugins/project/
+pncluster/.history
+pncluster/.cache
+pncluster/.lib/
